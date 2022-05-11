@@ -1,7 +1,7 @@
-FROMMed-Thon/MED_USERBOT:alpine
+FROMMed-Thon/ZED_USERBOT:alpine
 
 #clonning repo 
-RUN git clone https://github.com/MED-Thon/MED_USERBOT.git /root/userbot
+RUN git clone https://github.com/ZED-Thon/MED_USERBOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
