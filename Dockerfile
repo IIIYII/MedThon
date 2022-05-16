@@ -1,4 +1,4 @@
-FROMMed-Thon/Zed_USERBOT:alpine
+FROMMed-Thon/Med_USERBOT:alpine
 
 #clonning repo 
 RUN git clone https://github.com/IIIYII/Med_USERBOT.git /root/userbot
